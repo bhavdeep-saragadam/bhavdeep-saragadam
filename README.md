@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Bhavdeep
-#### Im A Full Stack Dev And Founder Of SSI
+#### Im A Full Stack Dev And Founder of OOF
 I'm 13 years old and I live in Canada....I'm open to many projects and I keep myself busy by learning new technologies like Django, Python, Node, React, MERN, Mongo DB, Open CV, Dfinity, JQuery,  AWS and way more.
 
 Learning Web3/Dfinity🔥
