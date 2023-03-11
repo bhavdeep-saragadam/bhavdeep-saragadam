@@ -11,7 +11,7 @@ Skills: Node JS / REACT / JS / HTML / CSS / DJANGO / PYTHON / MOKOTO / WEB 3 / P
 - 👯 I’m looking to collaborate on Full Stack Web Apps  
 - 😄 Pronouns: He/Him 
 - 
-<sellcodes-checkout offer="VKdNJfVf" button-text="Buy Now" /><script src="https://sellcodes.com/quick-checkout/sellcodes-checkout.js"></script>
+<sellcodes-checkout offer="VKdNJfVf" button-text="Buy Now" /><script src=https://sellcodes.com/quick-checkout/sellcodes-checkout.js></script>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/bhavdeep-saragadam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/https://dev.to/bhavdeepsaragadam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/user/bhavdeepsaragadam/videos)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://bhavdeep.herokuapp.com/)  
 
