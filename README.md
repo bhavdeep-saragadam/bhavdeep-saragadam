@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Bhavdeep
-#### Im A Full Stack Dev And Founder of OOF
+#### Im A Full Stack Dev And Founder of SSI
 I'm 13 years old and I live in Canada....I'm open to many projects and I keep myself busy by learning new technologies like Django, Python, Node, React, MERN, Mongo DB, Open CV, Dfinity, JQuery,  AWS and way more.
 
 Learning Web3/Dfinity🔥
@@ -14,7 +14,7 @@ Skills: Node JS / REACT / JS / HTML / CSS / DJANGO / PYTHON / MOKOTO / WEB 3 / P
 
 ProductTrckr
 
-https://sellcodes.com/VKdNJfVf
+Chec Out My New Product https://sellcodes.com/VKdNJfVf
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/bhavdeep-saragadam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/https://dev.to/bhavdeepsaragadam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/user/bhavdeepsaragadam/videos)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://bhavdeep.herokuapp.com/)  
 
