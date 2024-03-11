@@ -1,3 +1,4 @@
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 ### Hi there 👋, my name is Bhavdeep
 #### Im A Full Stack Dev And Founder of SSI
 I'm 13 years old and I live in Canada....I'm open to many projects and I keep myself busy by learning new technologies like Django, Python, Node, React, MERN, Mongo DB, Open CV, Dfinity, JQuery,  AWS and way more.
