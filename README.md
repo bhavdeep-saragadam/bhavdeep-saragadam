@@ -5,7 +5,7 @@ I'm 13 years old and I live in Canada....I'm open to many projects and I keep my
 
 Learning Web3/Dfinity🔥
 
-Skills: Node JS / REACT / JS / HTML / CSS / DJANGO / PYTHON / MOKOTO / WEB 3 / POSTGRES / SQL / MERN / Mongo DB / Docker / Open CV And More
+Skills: Node JS / REACT / JS / HTML / CSS / DJANGO / PYTHON / JAVA / MOKOTO / WEB 3 / POSTGRES / SQL / MERN / Mongo DB / Docker / Open CV And More
 
 - 🔭 I’m currently working on GetNow 
 - 🌱 I’m currently learning Web 3 
