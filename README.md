@@ -10,8 +10,8 @@ Skills: Node JS / REACT / JS / HTML / CSS / DJANGO / PYTHON / JAVA / MOKOTO / WE
 - 🔭 I’m currently working on GetNow 
 - 🌱 I’m currently learning Web 3 
 - 👯 I’m looking to collaborate on Full Stack Web Apps  
-- 😄 Pronouns: He/Him 
-- 
+
+ 
 
 ProductTrckr
 
