@@ -3,7 +3,7 @@
 #### Im A Full Stack Dev And Founder of SSI
 I'm 15 years old and I live in Canada....I'm open to many projects and I keep myself busy by learning new technologies like Django, Python, Node, React, MERN, Mongo DB, Open CV, Dfinity, JQuery,  AWS and way more.
 
-Learning Web3/Dfinity🔥
+Learning AI
 
 Skills: Node JS / REACT / JS / HTML / CSS / DJANGO / PYTHON / JAVA / MOKOTO / WEB 3 / POSTGRES / SQL / MERN / Mongo DB / Docker / Open CV And More
 
